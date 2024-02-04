@@ -19,3 +19,4 @@ Si se desea ejecutar alguno de los TDAs basta con ejecutar el comando "make" en 
 
 En cada TDA existe un archivo llamado "pruebas.c". El archivo de pruebas no es más que un programa que hace una inclusión de algún TDA y realiza pruebas unitarias sobre cada una de las funciones del mismo. Este archivo puede ser consultado si se desea ver un uso en particular de los TDAs, pero vale añadir que el código contenido en el estuvo diseñado para hacer pruebas, por lo que su organización y seguimiento de buenas practicas no son lo más adecuados. 
 
+    NOTA: Todas las pruebas unitarias de los TDAs sonde autoría propia.
